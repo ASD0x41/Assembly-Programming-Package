@@ -7,4 +7,4 @@ Tools in Package: Notepad++, DOSBox, NASM &amp; AFD
 + This package has been designed primarily for students of **FAST-NUCES** studying the Computer Organisation & Assembly Language (**COAL**) course.
 + Don't forget to star and share about this repository if you find this package helpful. :)
 ---
-**Disclaimer: The given tools belong to their respective owners. I have only bundled them together and written some NppExec scripts to make it easier for students to program in assembly in the course of their studies.**
+**DISCLAIMER: The given tools belong to their respective owners. I have only bundled them together and written some NppExec scripts to make it easier for students to program in assembly in the course of their studies.**
